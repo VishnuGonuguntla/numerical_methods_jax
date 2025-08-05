@@ -1,4 +1,4 @@
-from include import newtons
+from include import Newtons_numpy as nt
 from sympy import symbols
 import time
 
@@ -8,8 +8,9 @@ eqn = x**2 - 2*x + 1
 
 initial = 10; n = 10
 
-newton = newtons.NewtonsMethod(x, eqn)
-final = newton.solveNewton(n,initial)
+func = nt.NewtonsMethod(x, eqn)
+func.solveNewton(n,initial)
 end = time.time()
+func.plot()
 
 print(f"Elapsed Time: {(end-start):.2f} sec")
