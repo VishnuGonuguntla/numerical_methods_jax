@@ -1,2 +1,8 @@
 .venv/
 .burgers.ipynb
+prac.py
+animation.gif
+*.pyc
+temp*.py
+.gitignore
+burgers.ipynb
