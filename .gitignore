@@ -1,7 +1,7 @@
 .venv/
 .burgers.ipynb
 prac.py
-animation.gif
+*.gif
 *.pyc
 temp*.py
 .gitignore
