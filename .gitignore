@@ -5,4 +5,5 @@ prac.py
 *.pyc
 temp*.py
 .gitignore
-burgers.ipynb
+burgers*
+
