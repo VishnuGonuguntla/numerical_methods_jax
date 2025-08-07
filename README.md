@@ -1,2 +1,2 @@
 # burgers_jax
-Implementation of Burgers Equation in Jax (Python Library)
+Implementation of Newtons Method in Jax (Python Library)
