@@ -1,10 +1,9 @@
 .venv/
-.burgers.ipynb
-prac.py
+burgers.ipynb
 *.gif
 *.pyc
 temp*.py
 .gitignore
 burgers*
-
+prac*
 prac.ipynb
